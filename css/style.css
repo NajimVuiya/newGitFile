@@ -13,3 +13,10 @@ h2{
 	color: #efefef;
 	background-color: #000;
 }
+
+h4 
+{
+	margin: 0;
+	padding: 0px;
+	text-align: center;
+}
